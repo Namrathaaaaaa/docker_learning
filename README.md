@@ -19,8 +19,8 @@ docker run -p 8090:80 my_nginx_image
 
 
 Project4\n
-->docker build -t myflaskapp .\n
--> docker run -p 5001:5000 myflaskapp\n
+->docker build -t myflaskapp .
+-> docker run -p 5001:5000 myflaskapp
 
 
 Project5
