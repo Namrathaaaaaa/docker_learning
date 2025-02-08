@@ -2,7 +2,7 @@
 
 project runnning commands
 
-###Project3\
+#Project3\
 -> building an image\
 docker  build -t my_nginx_image .\
 -> If it throws error then\
@@ -18,16 +18,16 @@ docker run -p 8090:80 my_nginx_image\
 -> when u refresh the page u get the output\
 
 
-###Project4\
+#Project4\
 ->docker build -t myflaskapp .\
 -> docker run -p 5001:5000 myflaskapp\
 
 
-###Project5\
+#Project5\
 -> docker build -t mynodeapp\
 -> docker run -p 3000:3000 mynodeapp\
 
 
-###Project6\
+#Project6\
 -> create a docker-compose.yml file \
 -> compose up \
